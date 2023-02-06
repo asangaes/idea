@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asangaes&label=Profile%20views&color=0e75b6&style=flat" alt="asangaes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asangaes" alt="asangaes" /></a> </p>
 
 - 🔭 I’m currently working on **SIT - Intranet**
 
